@@ -55,11 +55,14 @@ img{
 }
 .cloud2{
     top: 18%;
-    left: 10%;
+    left: 20%;
     mix-blend-mode: overlay;
 }
 .cloud3{
     top: 10%;
-    left: 40%;
+    left: 10%;
     mix-blend-mode: overlay;
+}
+.boat{
+    left: 40%;
 }
